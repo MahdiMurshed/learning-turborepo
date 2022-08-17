@@ -1,10 +1,9 @@
-import { Button } from 'ui';
+import { CatCard, mockCatCardProps } from 'ui';
 
 export default function Docs() {
   return (
     <div>
-      <h1>Docs</h1>
-      <Button />
+      <CatCard {...mockCatCardProps.base} />
     </div>
   );
 }
