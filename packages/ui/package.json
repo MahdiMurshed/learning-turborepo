@@ -33,6 +33,7 @@
     "@mantine/core": "^5.1.6",
     "@mantine/hooks": "^5.1.6",
     "@mantine/nprogress": "^5.1.6",
+    "axios": "^0.27.2",
     "zustand": "^4.0.0"
   }
 }
